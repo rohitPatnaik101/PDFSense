@@ -1,0 +1,10 @@
+gradio
+langchain
+langchain_community
+langchain-huggingface  # For HuggingFaceEmbeddings
+langchain-together     # For Together LLM
+faiss-cpu
+pymupdf
+sentence-transformers
+huggingface_hub
+reportlab
