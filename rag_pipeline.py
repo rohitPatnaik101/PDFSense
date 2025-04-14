@@ -21,7 +21,7 @@ class RAGPipeline:
         
         self.llm = Together(
             model="mistralai/Mixtral-8x7B-Instruct-v0.1",
-            together_api_key="2357e751ff419dec84a6fab0e72dc3e2d877eaa47ac271d2506a43173d86e499",  # Replace with your key
+            together_api_key="52a919018d9931e59ad79bd7c76fdd6160a0cf2e1d3b5bf33f9ab4e142f80510",  # Replace with your key
             max_tokens=512,
             temperature=0.7,
             top_p=0.9
